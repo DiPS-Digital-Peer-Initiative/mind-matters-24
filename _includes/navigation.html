@@ -1,0 +1,36 @@
+<nav id="nav">
+	
+	<a href="/"><div class="header-title"><img src="/_media/branding/dark.png"></div></a>
+
+	<div id="link-drawer" class="links">
+		<div class="links-container">
+			{% for item in site.data.navigation.items %}
+				<a href="{{ site.baseurl }}{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+					{{ item.name }}
+				</a>
+			{% endfor %}
+		</div>
+		
+	 </div>
+	
+	<button id="link-drawer-handle" class="link-drawer-handle"><img src="/_media/chevron-right.svg"></button>
+
+	<script>
+		var b = document.getElementById("link-drawer-handle");
+		var linkDrawerIsOpen = false;
+
+		b.addEventListener("click", () => {
+			if (linkDrawerIsOpen) {
+				document.getElementById("link-drawer").classList.remove("visible");
+				document.getElementById("nav").classList.remove("link-drawer-open");
+				b.classList.remove('rotated');
+				linkDrawerIsOpen = false;
+			} else {
+				document.getElementById("link-drawer").classList.add("visible");
+				document.getElementById("nav").classList.add("link-drawer-open");
+				b.classList.add('rotated');
+				linkDrawerIsOpen = true;
+			}
+		});
+	</script>
+</nav>

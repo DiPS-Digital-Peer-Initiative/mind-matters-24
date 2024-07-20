@@ -1,0 +1,9 @@
+items:
+  - name: Events
+    link: /events
+
+  - name: Principal's Message
+    link: /principals-message
+    
+  - name: Contact
+    link: /contact

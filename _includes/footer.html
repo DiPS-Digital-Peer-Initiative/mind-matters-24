@@ -1,0 +1,47 @@
+<footer>
+
+	<div class="footer-flex-content">
+		<div>
+			<a href="/" >
+			<div class="footer-heading">
+				<img src="/_media/branding/light.png">
+			</div>
+			</a>
+		</div>
+		<div class="links-section">
+			
+			{% for item in site.data.footer.items %}
+				<div class="links-group">
+					<div class="links">
+						<div class="links">
+							<div class="title">{{item.name}}</div>
+							<ul>
+								{% for link in item.links %}
+									<li>
+										<a href="{{ site.baseurl }}{{ link.link }}">
+											{{ link.name }}
+										</a>
+									</li>
+								{% endfor %}
+							</ul>
+						</div>
+					</div>
+				</div>
+			{% endfor %}
+
+		</div>
+	</div>
+
+	<div class="endnotes">
+		Copyright {{site.time | date: '%Y'}} DPS Bangalore South. All Rights Reserved.
+	</div>
+
+</footer>
+
+
+<!--
+
+	Hello!
+	-- sumukh (github.com/sumukhprasad)
+
+-->
