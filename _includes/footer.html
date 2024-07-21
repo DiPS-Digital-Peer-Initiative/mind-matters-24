@@ -10,21 +10,34 @@
 		</div>
 		<div class="links-section">
 			
+			<div class="links-group">
+				<div class="links">
+					<div class="title">Events</div>
+					<ul>
+						{% for event in site.events %}
+							<li>
+								<a href="{{ site.baseurl }}{{ event.url }}">
+									{{ event.name }}
+								</a>
+							</li>
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
+			
 			{% for item in site.data.footer.items %}
 				<div class="links-group">
 					<div class="links">
-						<div class="links">
-							<div class="title">{{item.name}}</div>
-							<ul>
-								{% for link in item.links %}
-									<li>
-										<a href="{{ site.baseurl }}{{ link.link }}">
-											{{ link.name }}
-										</a>
-									</li>
-								{% endfor %}
-							</ul>
-						</div>
+						<div class="title">{{item.name}}</div>
+						<ul>
+							{% for link in item.links %}
+								<li>
+									<a href="{{ site.baseurl }}{{ link.link }}">
+										{{ link.name }}
+									</a>
+								</li>
+							{% endfor %}
+						</ul>
 					</div>
 				</div>
 			{% endfor %}

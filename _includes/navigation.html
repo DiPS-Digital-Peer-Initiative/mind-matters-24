@@ -5,7 +5,7 @@
 	<div id="link-drawer" class="links">
 		<div class="links-container">
 			{% for item in site.data.navigation.items %}
-				<a href="{{ site.baseurl }}{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+				<a href="{{ site.baseurl }}{{ item.link }}" {% if page.url == item.link %}style="opacity: 1; font-weight: bold;"{% endif %}>
 					{{ item.name }}
 				</a>
 			{% endfor %}

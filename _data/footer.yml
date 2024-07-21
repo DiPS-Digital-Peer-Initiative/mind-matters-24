@@ -1,5 +1,8 @@
 items:
   - name: Links
     links:
-      - name: About
-        link: /about
+      - name: Principal's Message
+        link: /principals-message
+
+      - name: Contact
+        link: /contact
