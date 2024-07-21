@@ -1,1 +1,87 @@
 @import 'colors'
+
+.hero
+	padding: 24px
+	.sponsors
+		display: flex
+		gap: 6px
+		flex-direction: row
+		align-items: center
+		.content
+			font-size: 24px
+			opacity: 0.5
+			font-family: 'Fraunces'
+			color: $theme-dark
+		.sponsor-logo
+			width: 48px
+			height: 48px
+			background-color: #FFFFFF
+			border-radius: 24px
+			margin: 6px
+	.mm-logo
+		width: calc(100vw - 48px)
+		max-width: 512px
+		margin-top: 24px
+		margin-bottom: 24px
+	.subtitle
+		font-size: 24px
+		opacity: 0.5
+		font-family: 'DM Sans'
+		color: $theme-dark
+		margin-bottom: 60px
+	.register-link
+		font-size: 18px
+		font-family: 'DM Sans'
+		color: $theme-light
+		background-color: $theme-dark
+		text-decoration: none
+		padding: 12px 24px
+		border-radius: 180px
+		
+		
+.content-section
+	padding: 24px
+	display: flex
+	gap: 48px
+	flex-direction: row
+	align-items: center
+	.content
+		font-size: 18px
+		font-family: 'DM Sans'
+		color: $theme-dark
+		h1
+			font-size: 64px
+			font-family: 'Fraunces'
+			font-weight: 300
+	img
+		border-radius: 16px
+		width: 50%
+	
+
+.content-section-reverse
+	flex-direction: row-reverse
+	
+@media (max-width: 750px)	
+	.content-section
+		padding: 0px
+		display: flex
+		gap: 48px
+		flex-direction: column !important
+		align-items: center
+		.content
+			padding: 24px
+		
+		img
+			width: 100%
+			border-radius: 0px
+
+.separator
+	width: 80vw
+	background-color: $theme-dark
+	height: 5px
+	margin-left: auto
+	margin-right: auto
+	margin-top: 24px
+	margin-bottom: 24px
+	opacity: 0.3
+	border-radius: 5px
