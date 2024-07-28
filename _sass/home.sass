@@ -2,6 +2,9 @@
 
 .hero
 	padding: 24px
+	font-size: 18px
+	font-family: 'DM Sans'
+	min-height: 100vh
 	.sponsors
 		display: flex
 		gap: 6px
@@ -23,6 +26,11 @@
 		max-width: 512px
 		margin-top: 24px
 		margin-bottom: 24px
+	.title
+		font-size: 48px
+		font-family: 'Fraunces'
+		font-weight: 300
+		color: $theme-dark
 	.subtitle
 		font-size: 24px
 		opacity: 0.5
@@ -30,13 +38,18 @@
 		color: $theme-dark
 		margin-bottom: 60px
 	.register-link
-		font-size: 18px
-		font-family: 'DM Sans'
 		color: $theme-light
 		background-color: $theme-dark
 		text-decoration: none
 		padding: 12px 24px
 		border-radius: 180px
+		margin-left: 18px
+	.learn-link
+		color: $theme-dark
+		text-decoration: none
+	.fade
+		height: 125px
+		background: linear-gradient(transparent, $page-color)
 		
 		
 .content-section
@@ -44,7 +57,6 @@
 	display: flex
 	gap: 48px
 	flex-direction: row
-	align-items: center
 	.content
 		font-size: 18px
 		font-family: 'DM Sans'
@@ -53,9 +65,15 @@
 			font-size: 64px
 			font-family: 'Fraunces'
 			font-weight: 300
-	img
-		border-radius: 16px
-		width: 50%
+	.photo
+		width: 150px
+		img
+			width: 150px
+		.caption
+			font-size: 12px
+			font-family: 'DM Sans'
+			color: $theme-dark
+			opacity: 0.5
 	
 
 .content-section-reverse

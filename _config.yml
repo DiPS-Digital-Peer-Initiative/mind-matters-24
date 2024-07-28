@@ -41,6 +41,9 @@ collections:
   events:
     output: true
     future: true
+  workshops:
+    output: true
+    future: true
 show_excerpts: true
 
 # Exclude from processing.

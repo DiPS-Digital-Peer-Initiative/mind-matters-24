@@ -9,8 +9,8 @@ nav
 	padding: 30px 3em
 	width: calc(100vw - 6em)
 	z-index: 10000
-	background-color: $page-color
 	font-family: "DM Sans"
+	background-image: linear-gradient($page-color, transparent)
 	.header-title img
 		width: 256px
 		
@@ -39,7 +39,7 @@ nav
 		a
 			text-decoration: none
 			font-size: 20px
-			font-weight: 300
+			font-weight: bold
 			color: $theme_dark
 			opacity: 0.5
 			transition: all 0.25s
@@ -51,6 +51,7 @@ nav
 		height: 88px
 		padding: 1em 2em
 		width: calc(100vw - 4em)
+		background-color: $page-color
 		.header-title img
 			height: auto
 		img

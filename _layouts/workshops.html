@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	{% include head.html %}
+
+	<body class="home-body">
+		{% include navigation.html %}
+		
+		<main class="default-main">
+			<h1 id="events">Workshops</h1>
+			
+			{% for event in site.workshops %}
+				<a href="{{event.url}}" class="event-container-link">
+					<div class="event-container">
+						<div class="bg" style="background-image: url('{{ event.banner_image }}');">
+						</div>
+						<div class="content-backing">
+						</div>
+						<div class="content">
+							<h1>{{ event.name }}</h1>
+							<div class="description">{{ event.description }}</div>
+						</div>
+					</div>
+				</a>
+			{% endfor %}
+			
+		</main>
+		
+
+		{% include footer.html %}
+		{% include envsash.html %}
+</html>
+

@@ -2,8 +2,11 @@ items:
   - name: Events
     link: /events
 
-  - name: Principal's Message
-    link: /principals-message
+  - name: Workshops
+    link: /workshops
+    
+  - name: 2023
+    link: /2023
     
   - name: Contact
     link: /contact

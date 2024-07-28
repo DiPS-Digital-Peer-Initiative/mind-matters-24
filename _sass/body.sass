@@ -1,9 +1,22 @@
 @import 'colors'
 
+#background
+	position: absolute
+	z-index: -1
+	opacity: 0.5
+	.fade
+		z-index: -1
+		background: linear-gradient(transparent, $theme_light)
+		height: 100vh
+		width: 100vw
+		position: absolute
+	
+
 body
 	background: $page-color
 	padding: 0
 	margin: 0
+	color: $theme_dark
 
 .separator-dotted
 	background: linear-gradient(90deg,$page-color 2px,transparent 1%) 50%,linear-gradient($page-color 2px,transparent 1%) 50%,#000
@@ -14,6 +27,8 @@ body
 
 main
 	min-height: 100vh
+	max-width: 1200px
+	margin: auto
 
 a
 	color: $teal3
@@ -21,7 +36,6 @@ a
 .default-main
 	padding: 2em
 	font-family: 'DM Sans'
-	color: $theme_dark
 	
 h1
 	font-size: 48px
