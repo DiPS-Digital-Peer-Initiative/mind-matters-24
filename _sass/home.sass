@@ -5,22 +5,20 @@
 	font-size: 18px
 	font-family: 'DM Sans'
 	min-height: 100vh
+	text-align: center
 	.sponsors
-		display: flex
-		gap: 6px
-		flex-direction: row
-		align-items: center
-		.content
-			font-size: 24px
-			opacity: 0.5
-			font-family: 'Fraunces'
-			color: $theme-dark
+		.logos
+			display: flex
+			gap: 6px
+			flex-direction: row
+			align-items: center
+			justify-content: center
 		.sponsor-logo
-			width: 48px
-			height: 48px
-			background-color: #FFFFFF
 			border-radius: 24px
 			margin: 6px
+			img
+				max-width: 72px
+				max-height: 72px
 	.mm-logo
 		width: calc(100vw - 48px)
 		max-width: 512px
@@ -31,12 +29,20 @@
 		font-family: 'Fraunces'
 		font-weight: 300
 		color: $theme-dark
+
+	.content
+		font-size: 24px
+		opacity: 0.5
+		font-family: 'Fraunces'
+		color: $theme-dark
 	.subtitle
 		font-size: 24px
 		opacity: 0.5
 		font-family: 'DM Sans'
 		color: $theme-dark
-		margin-bottom: 60px
+		margin-bottom: 40px
+	.links
+		margin-top: 60px
 	.register-link
 		color: $theme-light
 		background-color: $theme-dark
@@ -51,6 +57,34 @@
 		height: 125px
 		background: linear-gradient(transparent, $page-color)
 		
+	.image-showcase
+		display: flex
+		gap: 6px
+		flex-direction: row
+		align-items: center
+		justify-content: center
+		margin-top: 50px
+		max-width: 1200px
+		
+		.left-images, .right-images
+			display: flex
+			gap: 40px
+			
+		.logo-center
+			min-width: 250px
+			min-height: 250px
+			margin: 10px
+		
+		.image
+			background: linear-gradient(#aaa, #888)
+			width: 250px
+			height: 400px
+			border-radius: 16px
+		
+		.extreme
+			margin-top: -50px
+		.inner
+			margin-top: -25px
 		
 .content-section
 	padding: 24px
@@ -95,6 +129,7 @@
 
 .separator
 	width: 80vw
+	max-width: 1200px
 	background-color: $theme-dark
 	height: 5px
 	margin-left: auto
