@@ -1,4 +1,6 @@
 @import 'colors'
+
+
 .event-container-link
 	text-decoration: none !important
 	&:nth-of-type(even) 
@@ -7,7 +9,6 @@
 		.content-backing
 			margin-left: 50%
 			mask: linear-gradient(270deg, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.7), transparent)
-			
 	
 .event-container
 	color: white
@@ -55,8 +56,13 @@
 				margin-left: 0%
 			.content-backing
 				margin-left: 0%
+				mask: linear-gradient(180deg, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.7), transparent)
 				
 	.event-container
+		width: 100vw
+		border-radius: 0px
+		margin-left: -2em
+		margin-bottom: 0px
 		.content
 			position: relative
 			width: calc(100% - 48px)
@@ -64,8 +70,11 @@
 			z-index: 2
 			height: 702px
 			padding: 24px
+			border-radius: 0px
+			font-size: 16px
 		.content-backing
 			position: relative
+			border-radius: 0px
 			z-index: 1
 			margin-top: -750px
 			backdrop-filter: blur(10px)

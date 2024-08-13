@@ -6,24 +6,26 @@
 		{% include navigation.html %}
 		
 		<main class="default-main">
-			<h1 id="events">{{ page.name }}</h1>
-			
-			{{ content }}
-			
-			<h2>At a glance</h2>
-			<ul>
-				{% if page.deadline_date %}
-					<li>Deadline: {{page.deadline_date}}</li>
-  		    		{% else %}
-					<li>Date: {{page.date_of_event}}</li>
-					<li>Time: {{page.time_of_event}}</li>
-  		    		{% endif %}
+			<section class="limit-width">
+				<h1 id="events">{{ page.name }}</h1>
 				
-				<li>Venue: {{page.venue}}</li>
-				<li>Participants: {{page.participants}}</li>
-				<li>Fee: {{page.fee}}</li>
-				<li><a href="{{page.registration_link}}">Register for {{ page.name }} ></a></li>
-			</ul>
+				{{ content }}
+				
+				<h2>At a glance</h2>
+				<ul>
+					{% if page.deadline_date %}
+						<li>Deadline: {{page.deadline_date}}</li>
+  			    		{% else %}
+						<li>Date: {{page.date_of_event}}</li>
+						<li>Time: {{page.time_of_event}}</li>
+  			    		{% endif %}
+					
+					<li>Venue: {{page.venue}}</li>
+					<li>Participants: {{page.participants}}</li>
+					<li>Fee: {{page.fee}}</li>
+					<li><a href="{{page.registration_link}}">Register for {{ page.name }} ></a></li>
+				</ul>
+			</section>
 		</main>
 		
 

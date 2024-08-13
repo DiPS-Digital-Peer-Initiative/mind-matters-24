@@ -6,34 +6,38 @@
 		{% include navigation.html %}
 		
 		<main class="default-main">
-			<h1 id="events">Events</h1>
-			
-			{% for event in site.events %}
-				<a href="{{event.url}}" class="event-container-link">
-					<div class="event-container">
-						<div class="bg" style="background-image: url('{{ event.banner_image }}');">
-						</div>
-						<div class="content-backing">
-						</div>
-						<div class="content">
-							<h1>{{ event.name }}</h1>
-							<div class="description">{{ event.description }}</div>
+			<section class="limit-width">
+				<h1 id="events">Events</h1>
+				
+				{% for event in site.events %}
+					<a href="{{event.url}}" class="event-container-link">
+						<div class="event-container">
+							<div class="bg" style="background-image: url('{{ event.banner_image }}');">
+							</div>
+							<div class="content-backing">
+							</div>
+							<div class="content">
+								<h1>{{ event.name }}</h1>
+								<div class="description">{{ event.description }}</div>
 							
 
-							<div class="description" style="margin-top: 25px;">
-								{% if event.deadline_date %}
-									<b>Deadline: {{event.deadline_date}}</b><br>
-				  		    		{% else %}
-									<b>Date: {{event.date_of_event}}</b><br>
-									<b>Time: {{event.time_of_event}}</b><br>
-				  		    		{% endif %}
-								<b>Venue: {{event.venue}}</b><br>
-								<b>Fee: {{event.fee}}</b><br>
+								<div class="description" style="margin-top: 25px;">
+									{% if event.deadline_date %}
+										<b>Deadline: {{event.deadline_date}}</b><br>
+					  		    		{% else %}
+										<b>Date: {{event.date_of_event}}</b><br>
+										<b>Time: {{event.time_of_event}}</b><br>
+					  		    		{% endif %}
+									<b>Venue: {{event.venue}}</b><br>
+									<b>Fee: {{event.fee}}</b><br>
+								
+									<div style="text-decoration: underline; margin-top: 25px">View ></div>
+								</div>
 							</div>
 						</div>
-					</div>
-				</a>
-			{% endfor %}
+					</a>
+				{% endfor %}
+			</section>
 			
 		</main>
 		
