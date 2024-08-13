@@ -5,20 +5,16 @@ title: Contact
 
 # Contact us
 
-You can contact us for any questions or queries you might have between 3 to 6 p.m.
+You can contact us for any questions or queries you might have between 5 to 7 p.m.
 
-## People
-- **Jane Doe**<br>
-  98471-38192<br>
-  what@example.com
+## Counsellors
+- **Mrs. Swati Banerjee**<br>
+  +91-99452-17954<br>
+  dpsbsswati@gmail.com
 
-- **Somebody Somebody**<br>
-  98471-38192<br>
-  someone@example.com
-
-- **Who Is This III**<br>
-  98471-38192<br>
-  who@example.com
+- **Mrs. Sunitha S**<br>
+  +91-96327-09789<br>
+  dpsbspsychology.sunitha@gmail.com
 
 
 ## Address
@@ -27,4 +23,5 @@ DPS Bangalore South, <br>
 Kanakapura Road, Konanakunte, <br>
 Bangalore, <br>
 Karnataka 560062 <br>
+**Phone:** +91 8026668581 / +91 8026668582<br>
 [View on Google Maps >](https://maps.app.goo.gl/HT5KUtrjkC3HH6hX7)

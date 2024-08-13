@@ -42,7 +42,7 @@ collections:
     output: true
     future: true
   workshops:
-    output: true
+    output: false
     future: true
 show_excerpts: true
 

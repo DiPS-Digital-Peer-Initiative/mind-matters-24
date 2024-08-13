@@ -30,6 +30,7 @@
 		height: 702px
 		padding: 24px
 		border-radius: 16px
+		font-size: 18px
 		
 	.content-backing
 		position: relative
@@ -47,6 +48,14 @@
 			
 
 @media (max-width: 750px)
+	.event-container-link
+		text-decoration: none !important
+		&:nth-of-type(even) 
+			.content
+				margin-left: 0%
+			.content-backing
+				margin-left: 0%
+				
 	.event-container
 		.content
 			position: relative

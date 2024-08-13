@@ -1,12 +1,60 @@
 ---
 layout: event
+banner_image: /_media/yuvasansad.jpg
+
 name: Yuva Sansad
+
+fee: 500 per group
+
 date_of_event: 25th October 2024
 time_of_event: 11:30am to 1:00pm
-venue: Alke Block
+
+venue: AV Room, Alke Block
+
 participants: 2 per school
-description: desc
-banner_image: https://cdn.esahubble.org/archives/images/large/heic1608a.jpg
-fee: 500 per person
+description:  Unmasking Mental Health—Breaking the Silence, Building Strength! At Yuva Sansad, we're turning the spotlight on mental health. Share your thoughts and opinions, spread awareness and question the policies and implementations of others. Join us in this exciting journey of empowerment, where every voice counts.
+registration_link: https://example.com
 ---
 
+## Topics
+- Skilling and Employment for Women: Programs to enhance skill development and employment opportunities for women.
+- Child Rights and Protection: Ensuring the implementation of the Juvenile Justice Act and other child protection laws.
+- Empowerment of Women in Rural Areas: Discuss policies and programs aimed at improving the socio-economic status of women in rural regions.
+- Tobacco and Substance Abuse Prevention: Strategies to reduce the use of tobacco and other substances, particularly among youth.
+- Universal Health Coverage: Strategies to ensure affordable and accessible healthcare for all citizens.
+- Combating Fake News and Misinformation: Strategies to identify and counteract the spread of false information
+- Impact of Media on Youth and Culture: Analysing how media influences youth behaviour, culture, and societal norms.
+- National Education Policy Implementation: Discussing the strategies and challenges in implementing the National Education Policy (NEP) 2020.
+- Skill Development and Vocational Training: Integrating skill development programs with mainstream education to enhance employability.
+- Combating Substance Abuse: Initiatives to prevent and treat substance abuse, particularly among youth.
+
+## Criteria for Judgement
+- Knowledge and research of the topic
+- Articulation and presentation skills of the team
+- Debate and engagement during the session of the team members
+- Decorum maintained by the teams
+- Collaboration and team effort
+- Time management
+
+## Rules and Regulations
+- There are 5 ministries present. They are -
+	- Ministry of Woman and Child Development 
+	- Ministry of Health and Family Welfare 
+	- Ministry of Information and Broadcasting
+	- Ministry of Education
+	- Ministry of Social Justice and Woman Empowerment 
+- Participants must research about all ten topics to find policies and implementations of the same in accordance with the five ministries.
+- The participants must bring their research along with them. 
+- Laptops and mobiles are to be carried.
+- Ministries will be assigned to the students through chits on spot. 
+- Participants will be given one hour for preparation.
+- Each ministry gets to speak for 3 minutes.
+- Opposition ministries must note down points and question the policies and implementations of other ministries.
+- The Moderator will guide the discussions, maintain discipline, and enforce rules.
+- Respectful conduct: Students must maintain a respectful and non-judgemental tone throughout the discussion. 
+- Active listening: Everyone should actively listen to others when they are speaking, without interruption. 
+- Equal participation: Each team member must actively participate in giving ideas, plans and policies during the session. 
+- Stay on topic: Keep the discussion focused on the given mental health topic and avoid divergence. 
+- Confidentiality: Emphasise the importance of respecting the privacy and confidentiality of personal experiences shared during the discussion. 
+- Constructive Feedback: Providing feedback or sharing personal experiences should be done in a constructive and supportive manner.
+- Time Management: Allocate a specific amount of time for each discussion to ensure that all topics are covered within the allotted time frame.

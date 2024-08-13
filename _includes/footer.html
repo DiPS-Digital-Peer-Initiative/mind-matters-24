@@ -94,21 +94,6 @@
 				</div>
 			</div>
 			
-			<div class="links-group">
-				<div class="links">
-					<div class="title">Workshops</div>
-					<ul>
-						{% for event in site.workshops %}
-							<li>
-								<a href="{{ site.baseurl }}{{ event.url }}">
-									{{ event.name }}
-								</a>
-							</li>
-						{% endfor %}
-					</ul>
-				</div>
-			</div>
-			
 			{% for item in site.data.footer.items %}
 				<div class="links-group">
 					<div class="links">

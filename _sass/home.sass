@@ -13,6 +13,13 @@
 			flex-direction: row
 			align-items: center
 			justify-content: center
+		
+		.school
+			opacity: 1
+			font-size: 36px
+			font-family: 'Fraunces'
+			color: $theme-dark
+
 		.sponsor-logo
 			border-radius: 24px
 			margin: 6px
@@ -35,6 +42,7 @@
 		opacity: 0.5
 		font-family: 'Fraunces'
 		color: $theme-dark
+	
 	.subtitle
 		font-size: 24px
 		opacity: 0.5
@@ -50,6 +58,11 @@
 		padding: 12px 24px
 		border-radius: 180px
 		margin-left: 18px
+		transition: all 0.25s
+		border: 2px $theme-dark solid
+		&:hover
+			color: $theme-dark
+			background-color: #fff
 	.learn-link
 		color: $theme-dark
 		text-decoration: none
@@ -63,7 +76,7 @@
 		flex-direction: row
 		align-items: center
 		justify-content: center
-		margin-top: 50px
+		margin-top: 120px
 		max-width: 1200px
 		
 		.left-images, .right-images
@@ -80,12 +93,26 @@
 			width: 250px
 			height: 400px
 			border-radius: 16px
+			overflow: hidden
+			display: flex
+			align-items: center
+			justify-content: center
+			
+			&:hover
+				img
+					transform: scale(1.1)
+			
+			img
+				max-height: 100%
+				transform: scale(1)
+				transition: all 0.25s
 		
 		.extreme
-			margin-top: -50px
+			margin-top: -100px
 		.inner
-			margin-top: -25px
+			margin-top: -50px
 		
+
 .content-section
 	padding: 24px
 	display: flex

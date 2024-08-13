@@ -12,11 +12,17 @@
 			
 			<h2>At a glance</h2>
 			<ul>
-				<li>Date: {{page.date_of_event}}</li>
-				<li>Time: {{page.time_of_event}}</li>
+				{% if page.deadline_date %}
+					<li>Deadline: {{page.deadline_date}}</li>
+  		    		{% else %}
+					<li>Date: {{page.date_of_event}}</li>
+					<li>Time: {{page.time_of_event}}</li>
+  		    		{% endif %}
+				
 				<li>Venue: {{page.venue}}</li>
 				<li>Participants: {{page.participants}}</li>
 				<li>Fee: {{page.fee}}</li>
+				<li><a href="{{page.registration_link}}">Register for {{ page.name }} ></a></li>
 			</ul>
 		</main>
 		

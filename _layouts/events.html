@@ -18,6 +18,18 @@
 						<div class="content">
 							<h1>{{ event.name }}</h1>
 							<div class="description">{{ event.description }}</div>
+							
+
+							<div class="description" style="margin-top: 25px;">
+								{% if event.deadline_date %}
+									<b>Deadline: {{event.deadline_date}}</b><br>
+				  		    		{% else %}
+									<b>Date: {{event.date_of_event}}</b><br>
+									<b>Time: {{event.time_of_event}}</b><br>
+				  		    		{% endif %}
+								<b>Venue: {{event.venue}}</b><br>
+								<b>Fee: {{event.fee}}</b><br>
+							</div>
 						</div>
 					</div>
 				</a>
