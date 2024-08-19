@@ -13,7 +13,7 @@ venue: German Lab, Aidos Block
 
 participants: 2 per school
 description:  Tick-tock, tick-tock your time is coming to an end. Enjoy just one minute to express your views on a surprise topic relevant to today’s modern world and its issues. Get ready to be tested on your critical thinking, extensive vocabulary, and ability to charm with your words. Will you be able to catch up with the time, or will time catch up with you? Get ready to impress your competitors and judges with your skills!
-registration_link: https://example.com
+registration_link: https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
 ---
 
 ## Rules and Regulations

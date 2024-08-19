@@ -13,7 +13,7 @@ venue: Amphitheatre, Elios Block
 
 participants: 4-5 per school
 description: As team(s) nukkad naatak engages us in captivating street theatre and sheds light on blend of drama and awareness that aims to destigmatize mental health issues and inspire change. Witness the fusion of art and advocacy as we strive to resonate for a healthier more compassionate society.  Be a part of a movement that sparks conversations and breaks the silence around mental well being..
-registration_link: https://example.com
+registration_link: https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
 ---
 
 ## Topics

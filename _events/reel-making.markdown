@@ -12,7 +12,7 @@ venue: Online
 
 participants: 1 per school (actors in video not restricted)
 description: Reels, the essence of social media designed to catch viewer's attention. Contestants are to blend creativity, storytelling, and technology to share information in a dynamic, easily digestible format. Tension is building as judges eliminate reels, it better not be yours! This competition focuses on mental health and well being. Show the world what you are capable of creatively and show the world their mental health matters.
-registration_link: https://example.com
+registration_link: https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
 ---
 
 ## Topics

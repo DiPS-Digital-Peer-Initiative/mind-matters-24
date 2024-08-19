@@ -13,7 +13,7 @@ venue: AV Room, Alke Block
 
 participants: 2 per school
 description:  Unmasking Mental Health—Breaking the Silence, Building Strength! At Yuva Sansad, we're turning the spotlight on mental health. Share your thoughts and opinions, spread awareness and question the policies and implementations of others. Join us in this exciting journey of empowerment, where every voice counts.
-registration_link: https://example.com
+registration_link: https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
 ---
 
 ## Topics

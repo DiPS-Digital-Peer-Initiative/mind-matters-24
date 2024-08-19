@@ -13,6 +13,7 @@ venue: Open auditorium
 
 participants: 1 teacher and 1 student 
 description: Gather your friends and set up an engaging stall focused on 21st-century life skills. Use this opportunity to showcase your knowledge about mental health by sharing your insights and perspectives. Let your creativity shine as you communicate important messages, addressing concerns and raising awareness among the crowd. Participate in the school’s health and wellbeing exhibition, making a positive impact and inspiring others to prioritise mental health.
+registration_link: https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
 ---
 
 ## Suggested Topics and Guidelines

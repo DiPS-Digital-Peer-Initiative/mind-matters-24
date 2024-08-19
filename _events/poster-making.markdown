@@ -13,7 +13,7 @@ venue: Assemble at Open Auditorium
 
 participants: 1 per school
 description:  Express, Create, Heal - Join the MENTAL HEALTH digital poster-making competition, Utopia - where ART and CREATIVITY meets MENTAL HEALTH and the place where your poster is your voice. Express your unique vision and bring your creative ideas to life with art by raising consciousness among the audience! Join us by making a difference by urging others to give importance to mental wellness. Don't miss this opportunity to make your voice heard and contribute to a meaningful cause.
-registration_link: https://example.com
+registration_link: https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
 ---
 
 ## Topics

@@ -13,7 +13,7 @@ venue: Open Auditorium
 
 participants: 15 per school
 description: Flash Mob is an event which ends as quickly as it starts. It Is a spontaneous burst of dance that takes a crowd by surprise, turning an ordinary moment into an extraordinary spectacle. An innovative and creative way to create impactful lessons on the importance of mental health and well being. Choose one of the topics and jump right into the world of flash mobs!
-registration_link: https://example.com
+registration_link: https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
 ---
 ## Topics
 - Healthy expressions of emotions
