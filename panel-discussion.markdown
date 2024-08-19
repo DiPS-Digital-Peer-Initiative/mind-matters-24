@@ -30,8 +30,6 @@ The Mind Matters 2024 regional conclave will feature dynamic panel discussion by
 - Actionable Insights: Generate practical ideas and solutions that can be implemented in schools.
 - Student Empowerment: Empower students to be advocates for mental health in their communities.
 
-
-
 <center>
 	<img src="/_media/pd-1.jpeg" style="width: 40%; margin: 8px;">
 	<img src="/_media/pd-2.jpeg" style="width: 40%; margin: 8px;">
