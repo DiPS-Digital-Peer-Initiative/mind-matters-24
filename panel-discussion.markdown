@@ -5,6 +5,8 @@ title: Panel Discussion
 
 # Panel Discussion
 
+[Register for Panel Discussion >](https://forms.gle/7ATR2qneFiRLFAAy7)
+
 The Mind Matters 2024 regional conclave will feature dynamic panel discussion by students from various institutions sharing their views and thoughts on the theme “ Youth Voices on Mental Health: Challenges, Solutions, and Innovations”. Topics that will be discussed will be on mental health awareness, the impact of academic pressure, the influence of social media, and innovative approaches to fostering mental well-being in school environments. Through open dialogue, the panel aims to challenge stigmas, highlight peer support systems, and propose actionable solutions, empowering students to lead the charge in promoting mental health in their communities. An impactful discussion with the moderator leading the way will make the event insightful. The Panel Discussion will be organised on 26th October 2024, 11:30 a.m. to 12:40 p.m at the Bia Block auditorium. Two representatives per school can attend.
 
 
