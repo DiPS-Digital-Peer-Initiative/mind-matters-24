@@ -6,7 +6,7 @@ name: Utopia - Poster Making Competition
 
 fee: 200 per participant
 
-date_of_event: 26th October 2024
+date_of_event: 25th October 2024
 time_of_event: 10:00 a.m. to 11:00 a.m.
 
 venue: Assemble at Open Auditorium
