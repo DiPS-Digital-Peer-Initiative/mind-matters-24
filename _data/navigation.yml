@@ -8,5 +8,8 @@ items:
   - name: Panel Discussion
     link: /panel-discussion
     
+  - name: Parent Workshop
+    link: /_media/parent_workshop.pdf
+    
   - name: Contact
     link: /contact
