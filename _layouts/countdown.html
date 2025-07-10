@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	{% include head.html %}
+
+	<body class="home-body">
+		<main style="text-align: center; padding: 50px;">
+			<h1>Mind Matters 2025.</h1>
+				
+
+			<p style="font-family: DM Sans; margin-bottom: 100px;">We wish we could say more.</p>
+			
+			
+			<div id="countdown" class="countdown">
+				<div class="values">
+					<div class="time-value-section">
+						<div class="time-value-text">Days</div>
+						<div id="d-value1" class="time-value-number"></div>
+					</div>
+					<div class="time-value-section">
+						<div class="time-value-text">Hours</div>
+						<div id="h-value1" class="time-value-number"></div>
+						<div id="h-value2" class="time-value-number"></div>
+					</div>
+					<div class="time-value-section">
+						<div class="time-value-text">Minutes</div>
+						<div id="m-value1" class="time-value-number"></div>
+						<div id="m-value2" class="time-value-number"></div>
+					</div>
+					<div class="time-value-section">
+						<div class="time-value-text">Seconds</div>
+						<div id="s-value1" class="time-value-number"></div>
+						<div id="s-value2" class="time-value-number"></div>
+					</div>
+				</div>
+			</div>
+
+			<script>
+				function toStringAndCharAt(ntn, number){
+				    return number.toString().charAt(ntn);
+				}
+
+				var countDownDate = new Date("Aug 1, 2025 00:00:00").getTime();
+				function minTwoDigits(n) {
+				    return (n < 10 ? '0' : '') + n;
+				}
+				var x = setInterval(function() {
+				    var now = new Date().getTime();
+				    var distance = countDownDate - now;
+				    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+				    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+				    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+				    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+				    var daysToWrite1 = toStringAndCharAt(0, minTwoDigits(days));
+				    var daysToWrite2 = toStringAndCharAt(1, minTwoDigits(days));
+				    var hoursToWrite1 = toStringAndCharAt(0, minTwoDigits(hours));
+				    var hoursToWrite2 = toStringAndCharAt(1, minTwoDigits(hours));
+				    var minutesToWrite1 = toStringAndCharAt(0, minTwoDigits(minutes));
+				    var minutesToWrite2 = toStringAndCharAt(1, minTwoDigits(minutes));
+				    var secondsToWrite1 = toStringAndCharAt(0, minTwoDigits(seconds));
+				    var secondsToWrite2 = toStringAndCharAt(1, minTwoDigits(seconds));
+				    document.getElementById("d-value1").innerHTML = days;
+				    document.getElementById("h-value1").innerHTML = hoursToWrite1;
+				    document.getElementById("h-value2").innerHTML = hoursToWrite2;
+				    document.getElementById("m-value1").innerHTML = minutesToWrite1;
+				    document.getElementById("m-value2").innerHTML = minutesToWrite2;
+				    document.getElementById("s-value1").innerHTML = secondsToWrite1;
+				    document.getElementById("s-value2").innerHTML = secondsToWrite2;
+
+				    // If the count down is finished, write some text
+				    if (distance < 0) {
+				        clearInterval(x);
+				        document.getElementById("countdown").innerHTML = '<div style="color: #000;font-size: 10em;font-weight: 100;display: inline-block;text-align: center;">Done</div>';
+				    }
+				}, 1000);
+			</script>
+		</main>
+		{% include envsash.html %}
+</html>
