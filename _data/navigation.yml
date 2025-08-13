@@ -1,15 +1,12 @@
 items:
+  - name: Registration Details
+    link: /reg_details
+
   - name: Events
     link: /events
     
   - name: 2023
     link: /2023
-    
-  - name: Panel Discussion
-    link: /panel-discussion
-    
-  - name: Parent Workshop
-    link: /_media/parent_workshop.pdf
-    
+        
   - name: Contact
     link: /contact

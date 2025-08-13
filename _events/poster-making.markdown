@@ -4,34 +4,47 @@ banner_image: /_media/poster.jpg
 
 name: Utopia - Poster Making Competition
 
-fee: 200 per participant
+fee: Please check the brochure on the Details page
 
-date_of_event: 25th October 2024
-time_of_event: 10:00 a.m. to 11:00 a.m.
+date_of_event: 10th October 2025 (Day 1)
+time_of_event: 10:30am to 11:30am
 
-venue: Assemble at Open Auditorium
+venue: AV Room Aidos Block
 
-participants: 1 per school
-description:  Express, Create, Heal - Join the MENTAL HEALTH digital poster-making competition, Utopia - where ART and CREATIVITY meets MENTAL HEALTH and the place where your poster is your voice. Express your unique vision and bring your creative ideas to life with art by raising consciousness among the audience! Join us by making a difference by urging others to give importance to mental wellness. Don't miss this opportunity to make your voice heard and contribute to a meaningful cause.
+participants: 2 per school / college
+description:  UTOPIA is a poster-making competition that invites participants to creatively explore and promote critical themes surrounding mental health. Through visual expression, students will raise awareness, challenge societal taboos, and share positive messages related to emotional well-being, resilience, communication,and inclusion. The event aims to encourage thoughtful reflection and advocacy through art.
+
 registration_link: https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
 ---
 
 ## Topics
 
-- Don't Surrender to Negativity
-- Words are Powerful
-- Mental Health is a Right and not a Privilege
-- Make your Mental Health a Priority
-- Understanding Depression and Seeking Help
-- The Power of Positive Thinking
-- A Happy Mind is a Healthy Mind
-- Creating Safe and Inclusive Environments
-- Cyberbullying: Awareness and Prevention
+- Digital Detox: Unplug to Recharge
+- Nurture Yourself to Bloom
+- Let’s Build a School of Emotionally Smart Minds
+- Optimism is a Choice You Can Practice
+- Don’t Bottle It Up – Speak Up, Reach Out
+- Our Mind and it's feelings: Every emotion counts
+- Mental Health in classrooms: Together we thrive
+- Break the Stigma
+- Don't surrender to negativity: choose light over darkness
+- Mental health is a right, not a privilege 
+- Talk it out: The Healing power of communication
 
+## Criteria For Judgement
+- Relevance to the theme.
+- Originality.
+- Artistic composition.
+- Creativity.
+- Message conveyed by the poster.
 
 ## Rules and Regulations
 
-- The poster must be made on the A4 size sheet (provided by the school) with margins (0.5 inches) drawn with a black pen/marker.
-- Posters can be made using pencil, crayon, watercolour, oil paint, etc. Photographs, wires, other 3D objects, print-outs won’t be acceptable. It should be original and hand-made.
-- The topic of choice should be stated clearly at the top of the poster. 
-- The poster should contain name, class and institution of the participant.
+- Eligibility Criteria: Students of classes VIII,IX,X,XI,XII along with 1 and 2 year students can register.
+- Paper Provided: All participants must use the A3 art sheet provided by the school.
+- Theme: The topic must be clearly written at the top of the poster.
+- Poster Submission: Completed posters must be submitted at the designated desk within the given time
+- Poster Creation Rules
+    - Materials Allowed: Posters must be made using pencils, colour pencils, crayons, sketch pens, markers, and oil pastels/paints. Photographs, printouts, wires, and 3D objects are not allowed.
+    - Original Work Only: The poster must be original and handmade by the participant. Any form of plagiarism or external assistance will lead to disqualification.
+    - Identification: Personal Details must be written clearly on the back of the poster: Full Name, Class & Section, Roll Number, Contact Number. Advisable to not include personal information on the front side of the poster..

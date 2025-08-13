@@ -4,29 +4,30 @@ banner_image: /_media/yuvasansad.jpg
 
 name: Yuva Sansad
 
-fee: 500 per group
+fee: Please check the brochure on the Details page
 
-date_of_event: 25th October 2024
-time_of_event: 11:30am to 1:00pm
+date_of_event: 11th October 2025 (Day 2)
+time_of_event: 10:30 am to 1:00pm
 
-venue: AV Room, Alke Block
+venue: AV room, Alke Block(3rd floor)
 
-participants: 2 per school
-description:  Unmasking Mental Health—Breaking the Silence, Building Strength! At Yuva Sansad, we're turning the spotlight on mental health. Share your thoughts and opinions, spread awareness and question the policies and implementations of others. Join us in this exciting journey of empowerment, where every voice counts.
-registration_link: https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
+participants: 5 per school / college
+description:  A parliamentary-debate simulation where participants, assigned one of five ministries, analyse policies on ten critical social topics of women’s welfare,health, education, misinformation, substance abuse—within a structured, time-bound format that emphasizes research, rebuttal, and policy critique.
+
+registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
 ---
 
 ## Topics
-- Skilling and Employment for Women: Programs to enhance skill development and employment opportunities for women.
-- Child Rights and Protection: Ensuring the implementation of the Juvenile Justice Act and other child protection laws.
-- Empowerment of Women in Rural Areas: Discuss policies and programs aimed at improving the socio-economic status of women in rural regions.
-- Tobacco and Substance Abuse Prevention: Strategies to reduce the use of tobacco and other substances, particularly among youth.
-- Universal Health Coverage: Strategies to ensure affordable and accessible healthcare for all citizens.
-- Combating Fake News and Misinformation: Strategies to identify and counteract the spread of false information
-- Impact of Media on Youth and Culture: Analysing how media influences youth behaviour, culture, and societal norms.
-- National Education Policy Implementation: Discussing the strategies and challenges in implementing the National Education Policy (NEP) 2020.
-- Skill Development and Vocational Training: Integrating skill development programs with mainstream education to enhance employability.
-- Combating Substance Abuse: Initiatives to prevent and treat substance abuse, particularly among youth.
+- ⁠Skilling and Employment for Women: programmes to enhance skill development and employment opportunities for women.
+- ⁠Child Rights and Protection: Ensuring the implementation of the Juvenile Justice Act and other child protection laws.
+- ⁠Empowerment of Women in Rural Areas: Discuss policies and programmes aimed at improving the socio-economic status of women in rural regions.
+- ⁠Tobacco and Substance Abuse Prevention: Strategies to reduce the use of tobacco and other substances, particularly among youth.
+- ⁠Universal Health Coverage: Strategies to ensure affordable and accessible healthcare for all citizens.
+- ⁠Combating Fake News and Misinformation: Strategies to identify and counteract the spread of false information
+- ⁠Impact of Media on Youth and Culture: Analysing how media influences youth behaviour, culture, and societal norms.
+- ⁠National Education Policy Implementation: Discussing the strategies and challenges in implementing the National Education Policy (NEP) 2020.
+- Skill Development and Vocational Training: Integrating skill development programmes with mainstream education to enhance employability.
+- ⁠Combating Substance Abuse: Initiatives to prevent and treat substance abuse, particularly among youth.
 
 ## Criteria for Judgement
 - Knowledge and research of the topic
