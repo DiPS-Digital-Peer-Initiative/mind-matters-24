@@ -1,6 +1,6 @@
 ---
 layout: event
-banner_image: /_media/nn.jpg
+banner_image: /_media/pp.jpeg
 
 name: Pitch Perfect
 
@@ -14,7 +14,7 @@ venue: German Lab (Aidos Block)
 participants: 3 per school / college
 description: Unleash your entrepreneurial mind in Pitch Perfect, a platform to present creative and enterprising business ideas that will promote mental health awareness, healing and personal growth. Teams will have to create Power Point presentations on innovative proposals on the topics mentioned below. Each team will get 7 to 10 minutes to present their creative ideas to the judges.
 
-registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
+registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3  
 ---
 
 ## Topics
