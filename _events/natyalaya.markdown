@@ -4,7 +4,7 @@ banner_image: /_media/NTY.jpeg
 
 name: Natyalaya
 
-fee: Please check the brochure on the Details page
+fee: Please check the brochure on the Registration Details page
 
 date_of_event: 10th October 2025 (Day 1)
 time_of_event: 10:30 am to 12:30 pm
@@ -49,6 +49,6 @@ registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineReg
 - Eligibility Criteria: Students of classes VIII,IX,X,XI,XII along with 1st and 2nd year students can register.
 - Dance Form: Only Indian classical dance forms are allowed (e.g.Bharatanatyam, Kathak, Odissi, Kuchipudi, etc.)
 - Time Limit: Each performance must be between 5 to 7 minutes. Exceeding the time limit will lead to deduction of marks.
-- Music: Only pre-recorded music is allowed. Participants must bring their music on a pen drive in MP3 format. All music need to be submitted to email id dpspeereducators24@gmail.com by 5 October 2025. Kindly mention the school name
+- Music: Only pre-recorded music is allowed. Participants must bring their music on a pen drive in MP3 format. All music need to be submitted to email id dpspeereducators24@gmail.com by 5th October 2025. Kindly mention the school name
 - Solo Participation: Only solo performances are permitted. (There can be two participants from each school)
 - Originality: Choreography must be original or traditional. Imitation of film-based or non-classical steps will result in disqualification

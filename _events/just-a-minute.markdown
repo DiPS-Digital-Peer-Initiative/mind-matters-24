@@ -2,9 +2,9 @@
 layout: event
 banner_image: /_media/jam.jpg
 
-name: JAM Just A Minute
+name: JAM - Just A Minute
 
-fee: Please check the brochure on the Details page
+fee: Please check the brochure on the Registration Details page
 
 date_of_event: 11th October 2025 (Day 2)
 time_of_event: 10:30am to 11:30am
@@ -36,7 +36,7 @@ registration_link: https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegi
 
 ## Rules and Regulations
 
-- Eligibility Criteria: Students of classes VIII,IX,X,XI,XII along with 1 and 2 year students can register.
+- Eligibility Criteria: Students of classes VIII,IX,X,XI,XII along with 1st and 2nd year students can register.
 - Each participant will be given a topic from the topics mentioned above.
 - Each participant will be given a minute to speak on the topic.
 - Medium of speech will be English.

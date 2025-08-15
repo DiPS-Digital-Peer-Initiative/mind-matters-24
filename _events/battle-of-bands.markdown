@@ -4,7 +4,7 @@ banner_image: /_media/bb.jpeg
 
 name: Battle of Bands
 
-fee: Please check the brochure on the Details page
+fee: Please check the brochure on the Registration Details page
 
 date_of_event: 11th October 2025 (Day 2)
 time_of_event: 2:00 pm to 4:00 pm
@@ -24,8 +24,7 @@ registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineReg
 
 
 ## Rules and Regulations
-- Eligibility Criteria: Students of classes VIII,IX X,XI,XII along with 1 and 2
-- year students can register.
+- Eligibility Criteria: Students of classes VIII,IX X,XI,XII.
 - Only bands selected to perform live will be required to pay the event charge of Rs. 500.
 - Songs can be in English, Hindi, or any regional language
 - No click tracks should be used
@@ -39,5 +38,5 @@ registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineReg
 - Best three performances will be showcased in the Grand Finale.
 - Time limit: 10 minutes duration of the music videos
 - Format of Submission: Video recording of the performance.
-- File name format: `SchoolName_BandName_SongTitle` (Example: `DPS_South_RhythmRebels_YouAreNotAlone.mp4`)
-- All videos need to be submitted to dpspeereducators24@gmail.com by 5 October 2025.Late submissions will not be considered.
+- File name format: 'SchoolName_BandName_SongTitle' (Example: 'DPS_South_RhythmRebels_YouAreNotAlone.mp4)
+- All videos need to be submitted to dpspeereducators24@gmail.com by 5th October 2025. Late submissions will not be considered.

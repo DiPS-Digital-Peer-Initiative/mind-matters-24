@@ -1,10 +1,10 @@
 ---
 layout: event
-banner_image: /_media/nn.jpg
+banner_image: /_media/nn2024.jpeg
 
 name: Nukkad Natak
 
-fee: Please check the brochure on the Details page
+fee: Please check the brochure on the Registration Details page
 
 date_of_event: 10th October 2025 (Day 1)
 time_of_event: 10:30 am to 12:30 pm
@@ -31,7 +31,7 @@ registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineReg
 
 ## Rules and Regulations
 
-- IEligibility Criteria: Students of classes VIII,IX,X,XI,XII along with 1 and 2 year students can register.
+- Eligibility Criteria: Students of classes VIII,IX,X,XI,XII along with 1st and 2nd year college students can register.
 - It can be enacted in any language. However, the narrative is to be explained to the judges and audience in English before the enactment.
 - The duration of this competition is 5-7 minutes, considering only the constraint of time.
 - Students will have very limited time to get ready for the competition and are expected to be ready with paraphernalia before 9:45 am.

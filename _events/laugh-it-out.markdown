@@ -4,7 +4,7 @@ banner_image: /_media/nn.jpg
 
 name: Laugh It Out
 
-fee: Please check the brochure on the Details page
+fee: Please check the brochure on the Registration Details page
 
 date_of_event: 11th October 2025 (Day 2)
 time_of_event: 12:00 pm to 1:00 pm
@@ -32,7 +32,7 @@ registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineReg
 
 
 ## Rules and Regulations
-- Eligibility: Students from classes X,XI,XII and college students from 1 and 2 year can participate.
+- Eligibility: Students from classes X,XI,XII and college students from 1st and 2nd year can participate.
 - Solo participation only even if there are more than 1 representing a school.
 - The routine must be original and focused on the theme of mental health, wellbeing, and emotional awareness.
 - Content should be sensitive, respectful, and free from stigmatizing or offensive language.

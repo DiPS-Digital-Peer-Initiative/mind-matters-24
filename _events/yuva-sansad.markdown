@@ -4,12 +4,12 @@ banner_image: /_media/yuvasansad.jpg
 
 name: Yuva Sansad
 
-fee: Please check the brochure on the Details page
+fee: Please check the brochure on the Registration Details page
 
 date_of_event: 11th October 2025 (Day 2)
 time_of_event: 10:30 am to 1:00pm
 
-venue: AV room, Alke Block(3rd floor)
+venue: AV room, Alke Block (3rd floor)
 
 participants: 5 per school / college
 description:  A parliamentary-debate simulation where participants, assigned one of five ministries, analyse policies on ten critical social topics of women’s welfare,health, education, misinformation, substance abuse—within a structured, time-bound format that emphasizes research, rebuttal, and policy critique.
@@ -45,6 +45,7 @@ registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineReg
 	- Ministry of Education
 	- Ministry of Social Justice and Woman Empowerment 
 - Participants must research about all ten topics to find policies and implementations of the same in accordance with the five ministries.
+- Eligibility Criteria: Students of classes IX,X,XI,XII and 1st year and 2nd year students can register.
 - The participants must bring their research along with them. 
 - Laptops and mobiles are to be carried.
 - Ministries will be assigned to the students through chits on spot. 

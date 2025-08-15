@@ -4,14 +4,14 @@ banner_image: /_media/pp.jpeg
 
 name: Pitch Perfect
 
-fee: Please check the brochure on the Details page
+fee: Please check the brochure on the Registration Details page
 
 date_of_event: 10th October 2025 (Day 1)
 time_of_event: 2:30 pm to 3:30 pm
 
 venue: German Lab (Aidos Block)
 
-participants: 3 per school / college
+participants: Max 3 per school / college
 description: Unleash your entrepreneurial mind in Pitch Perfect, a platform to present creative and enterprising business ideas that will promote mental health awareness, healing and personal growth. Teams will have to create Power Point presentations on innovative proposals on the topics mentioned below. Each team will get 7 to 10 minutes to present their creative ideas to the judges.
 
 registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3  
@@ -23,7 +23,7 @@ registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineReg
 
 
 ## Rules and Regulations
-- Eligibility Criteria: Students of classes X,XI,XII along with 1 and 2 year students can register.
+- Eligibility Criteria: Students of classes X,XI,XII along with 1st and 2nd year students can register.
 - Each team must consist of 1 to 3 students from respective schools or colleges
 - Financials must be included
 - Only one entry per school/college is allowed
