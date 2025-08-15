@@ -24,7 +24,7 @@ registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineReg
 
 
 ## Rules and Regulations
-- Eligibility Criteria: Students of classes VIII,IX X,XI,XII.
+- Eligibility Criteria: Students of classes VIII,IX X,XI,XII along with 1st and 2st year students.
 - Only bands selected to perform live will be required to pay the event charge of Rs. 500.
 - Songs can be in English, Hindi, or any regional language
 - No click tracks should be used

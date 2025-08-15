@@ -24,7 +24,7 @@ registration_link: https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegi
 - Let’s Build a School of Emotionally Smart Minds
 - Optimism is a Choice You Can Practice
 - Don’t Bottle It Up – Speak Up, Reach Out
-- Our Mind and it's feelings: Every emotion counts
+- Our Mind and its feelings: Every emotion counts
 - Mental Health in classrooms: Together we thrive
 - Break the Stigma
 - Don't surrender to negativity: choose light over darkness
