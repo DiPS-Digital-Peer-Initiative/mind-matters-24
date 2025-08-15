@@ -14,7 +14,7 @@ title: Registration Details
 - School ID cards must be worn on the day of the event.
 - Students can take part in more than one event if scheduling permits.
 
-For all the details please check the brochure: <a href="/_media/internals.pdf" class="learn-link">Get the brochure ></a>
+For all the details please check the brochure: <a href="/_media/internal2025.pdf" class="learn-link">Get the brochure ></a>
 
 ---
 
