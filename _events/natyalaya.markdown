@@ -50,5 +50,5 @@ registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineReg
 - Dance Form: Only Indian classical dance forms are allowed (e.g.Bharatanatyam, Kathak, Odissi, Kuchipudi, etc.)
 - Time Limit: Each performance must be between 5 to 7 minutes. Exceeding the time limit will lead to deduction of marks.
 - Music: Only pre-recorded music is allowed. Participants must bring their music on a pen drive in MP3 format. All music need to be submitted to email id dpspeereducators24@gmail.com by 5th October 2025. Kindly mention the school name
-- There can be three participants per school / college. 
+- Solo Participation: Only solo performances are permitted. (There can be three participants from each school)
 - Originality: Choreography must be original or traditional. Imitation of film-based or non-classical steps will result in disqualification
