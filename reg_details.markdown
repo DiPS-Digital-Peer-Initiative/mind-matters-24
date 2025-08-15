@@ -14,17 +14,17 @@ title: Registration Details
 - School ID cards must be worn on the day of the event.
 - Students can take part in more than one event if scheduling permits.
 
-For all the details please check the brochure: <a href="/_media/internal2025.pdf" class="learn-link">Get the brochure ></a>
+Check the Registration Fees Details: <a href="/_media/internal2025.pdf" class="learn-link">Get the Registration Fees Details ></a>
 
 ---
 
 ## External – School / College
 - **Enterprising students from other schools or colleges** are welcome to participate.
-- Eligible participants: Classes VIII, IX, X, XI, XII (for schools) and 1st and 2nd students (for colleges).
+- Eligible participants: Classes VIII, IX, X, XI, XII (for schools) and 1st and 2nd year students (for colleges).
 - Valid school or college ID cards are mandatory on the day of the event.
 - Participants may take part in multiple events, subject to schedule availability.
 
-For all the details please check the brochure: <a href="/_media/external_S.pdf" class="learn-link">Get the brochure ></a>
+Check the Registration Fees Details: <a href="/_media/external_S.pdf" class="learn-link">Get the Registration Fees Details ></a>
 
 ---
 
@@ -32,7 +32,9 @@ For all the details please check the brochure: <a href="/_media/external_S.pdf" 
 - Groups of delegates from external schools or colleges are welcome to participate as official delegations.
 - Delegations may register for multiple events, provided there are no schedule conflicts.
 - Delegates do not need to belong to the same school, college, or institution.
+- Delegates from classes VIII to XII and 1st and 2nd year college students are welcome.
+- Participants must carry their school / college ID Card and identity proofs.
 
-For all the details please check the brochure: <a href="/_media/external_D_b.pdf" class="learn-link">Get the brochure ></a>
+Check the Registration Fees Details: <a href="/_media/external_D_b.pdf" class="learn-link">Get the Registration Fees Details ></a>
 
 ---
