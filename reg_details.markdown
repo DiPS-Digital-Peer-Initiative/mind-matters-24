@@ -35,6 +35,6 @@ Check the Registration Fees Details: <a href="/_media/external_S.pdf" class="lea
 - Delegates from classes VIII to XII and 1st and 2nd year college students are welcome.
 - Participants must carry their school / college ID Card and identity proofs.
 
-Check the Registration Fees Details: <a href="/_media/external_D_b.pdf" class="learn-link">Get the Registration Fees Details ></a>
+Check the Registration Fees Details: <a href="/_media/external_D.pdf" class="learn-link">Get the Registration Fees Details ></a>
 
 ---
