@@ -5,7 +5,7 @@ title: Contact
 
 # Contact us
 
-You can contact us for any questions or queries you might have between 5 to 7 p.m.
+You can contact us for any questions or queries you might have between 3 and 7 p.m.
 
 ## Counsellors
 - **Mrs. Swati Banerjee**<br>

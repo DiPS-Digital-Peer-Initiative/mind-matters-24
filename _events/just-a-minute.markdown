@@ -12,7 +12,7 @@ time_of_event: 10:30am to 11:30am
 venue: German Lab, Aidos Block, 2nd Floor
 
 participants: 2 per school / college
-description:  An impromptu-speaking challenge where each participant delivers a compelling, continuous one-minute talk on a surprise mental-health theme, judged on spontaneity, coherence, and content under real-time pressure.
+description: An impromptu speaking challenge where each participant delivers a compelling, continuous one-minute talk on a surprise mental health theme, judged on spontaneity, coherence, and content under real-time pressure.
 
 registration_link: https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
 ---
@@ -36,14 +36,14 @@ registration_link: https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegi
 
 ## Rules and Regulations
 
-- Eligibility Criteria: Students of classes VIII,IX,X,XI,XII along with 1st and 2nd year students can register.
+- Eligibility Criteria: Students of classes VIII,IX,X,XI, XII, along with 1st and 2nd year students, can register.
 - Each participant will be given a topic from the topics mentioned above.
 - Each participant will be given a minute to speak on the topic.
 - Medium of speech will be English.
 - Participants must speak continuously without long pauses or hesitation.
 - Hesitation or momentary pauses can open the floor to challenges.
-- The participant must avoid repeating the same words or phrases during the one minute talk.
+- The participant must avoid repeating the same words or phrases during the one-minute talk.
 - Other participants can challenge the speaker if they believe there was hesitation, repetition, or deviation. They can say "Just a minute!" and explain the issue.
-- The buzzer will be pressed twice, once when 45 seconds have passed and the final at the end of a minute.
+- The buzzer will be pressed twice, once when 45 seconds have passed and the final time at the end of a minute.
 - The participants will be judged on spontaneity, method, content, and fluency.
 - Usage of foul language will lead to disqualification.

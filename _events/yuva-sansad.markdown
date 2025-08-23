@@ -12,7 +12,7 @@ time_of_event: 10:30 am to 1:00pm
 venue: AV room, Alke Block (3rd floor)
 
 participants: 5 per school / college
-description:  A parliamentary-debate simulation where participants, assigned one of five ministries, analyse policies on ten critical social topics of women’s welfare,health, education, misinformation, substance abuse—within a structured, time-bound format that emphasizes research, rebuttal, and policy critique.
+description: A parliamentary debate simulation where participants, assigned one of five ministries, analyse policies on ten critical social topics of women’s welfare,health, education, misinformation, and substance abuse—within a structured, time-bound format that emphasises research, rebuttal, and policy critique.
 
 registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
 ---
@@ -44,18 +44,18 @@ registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineReg
 	- Ministry of Information and Broadcasting
 	- Ministry of Education
 	- Ministry of Social Justice and Woman Empowerment 
-- Participants must research about all ten topics to find policies and implementations of the same in accordance with the five ministries.
-- Eligibility Criteria: Students of classes IX,X,XI,XII and 1st year and 2nd year students can register.
+- Participants must research all ten topics to find policies and implementations of the same in accordance with the five ministries.
+- Eligibility Criteria: Students of classes IX,X,XI, XII, and 1st year and 2nd year students can register.
 - The participants must bring their research along with them. 
 - Laptops and mobiles are to be carried.
-- Ministries will be assigned to the students through chits on spot. 
+- Ministries will be assigned to the students through chits on the spot. 
 - Participants will be given one hour for preparation.
-- Each ministry gets to speak for 3 minutes.
+- Each ministry gets to speak for three minutes.
 - Opposition ministries must note down points and question the policies and implementations of other ministries.
 - The Moderator will guide the discussions, maintain discipline, and enforce rules.
 - Respectful conduct: Students must maintain a respectful and non-judgemental tone throughout the discussion. 
 - Active listening: Everyone should actively listen to others when they are speaking, without interruption. 
-- Equal participation: Each team member must actively participate in giving ideas, plans and policies during the session. 
+- Equal participation: Each team member must actively participate in giving ideas, plans, and policies during the session. 
 - Stay on topic: Keep the discussion focused on the given mental health topic and avoid divergence. 
 - Confidentiality: Emphasise the importance of respecting the privacy and confidentiality of personal experiences shared during the discussion. 
 - Constructive Feedback: Providing feedback or sharing personal experiences should be done in a constructive and supportive manner.

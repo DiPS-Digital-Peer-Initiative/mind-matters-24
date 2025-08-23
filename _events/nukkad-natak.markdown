@@ -12,7 +12,7 @@ time_of_event: 10:30 am to 12:30 pm
 venue: Amphitheatre, Elios Block
 
 participants: 8 per school / college
-description: A street-play competition that dramatizes pressing mental-health themes—resilience,stigma, cyberbullying, academic stress—using powerful storytelling, performance, and audience engagement to drive social awareness.
+description: A street-play competition that dramatises pressing mental-health themes—resilience,stigma, cyberbullying, academic stress—using powerful storytelling, performance, and audience engagement to drive social awareness
 
 registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
 ---
@@ -31,21 +31,21 @@ registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineReg
 
 ## Rules and Regulations
 
-- Eligibility Criteria: Students of classes VIII,IX,X,XI,XII along with 1st and 2nd year college students can register.
+- Eligibility Criteria: Students of classes VIII,IX,X,XI, XII, along with 1st and 2nd-year college students, can register.
 - It can be enacted in any language. However, the narrative is to be explained to the judges and audience in English before the enactment.
 - The duration of this competition is 5-7 minutes, considering only the constraint of time.
 - Students will have very limited time to get ready for the competition and are expected to be ready with paraphernalia before 9:45 am.
-- The first warning bell will be sounded after 5 minutes, and the final bell after 7 minutes.
+- The first warning bell will be sounded after five minutes, and the final bell after seven minutes.
 - If the team takes more time than permitted, there will be negative marking.
 - Use of foul/obscene language of any kind is prohibited.
-- Students need to carry their own props for this competition and they need to be handmade.
-- Musical Instruments can be carried by respective schools for this competition.
+- Students need to carry their own props for this competition, and they need to be handmade.
+- Musical instruments can be carried by respective schools for this competition.
 
 ## Judgment Criteria
 
 - Relevance to the given topic.
-- The narrator’s introduction of the story.
+- The narrator’s introduction to the story.
 - Script and dialogue of the play.
-- The actors’ performances, body language and clarity of dialogue will be assessed.
+- The actors’ performances, body language, and clarity of dialogue will be assessed.
 - Creativity and originality of the story will be assessed.
-- Audience engagement will assessed.
+- Audience engagement will be assessed.

@@ -27,22 +27,22 @@ registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineReg
 
 
 ## Rules and Regulations
-- Eligibility: Students from Grades X, XI, and XII
+- Eligibility: Students from Grades X, XI, and XII.
 - Boards: CBSE, ICSE, IGCSE, IB, PU
 - Research Paper Guidelines
 - Structure: Title Page (Title, Participant Names, Faculty Guide (counsellors or teachers), School Name)
 - Abstract (150–200 words)
 - Main Paper: Introduction, Statement of the Problem, Review of Literature, Methodology, Discussion, Findings, Conclusion, References (APA Format)
-- Formatting: Font: Times New Roman | Size: 12 | Language: English ,
-- Word Limit: 3000–3500
+- Formatting: Font: Times New Roman | Size: 12 | Language: English
+- Word Limit: 3,000–3,500
 - Plagiarism check
 - PowerPoint Guidelines:
-    - Slide Limit: 6–8 slides
-    - Must Cover: Introduction, Problem Statement Literature Review, Methodology, Findings, Conclusion
+    - Slide Limit: 6–8 slides.
+    - Must Cover: Introduction, Problem Statement, Literature Review, Methodology, Findings, Conclusion
     - Presentation Duration: 6 minutes + 2 minutes Q&A
-- First bell at 6 minutes, final bell at 8 minutes
-- Teams of 2 students (max 2 teams per institution)
+- First bell at 6 minutes, final bell at 8 minutes.
+- Teams of two students (max. two teams per institution)
 - Important Dates
-    - Abstract Submission: September 12, 2025
-    - Full Paper Submission: September 30, 2025
+    - Abstract Submission: 12 September 2025
+    - Full Paper Submission: 30 September 2025
     - Email for Paper Submission: psychinforesearch@gmail.com

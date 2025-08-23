@@ -12,7 +12,7 @@ venue: Online Submission
 
 participants: 4 - 5 per school / college
 
-description: A short-video competition where participants craft 30–60-second reels centered on a mental-health topic, demonstrating storytelling flair, visual innovation, and accessibility, with an emphasis on positive, constructive messaging.
+description: A short-video competition where participants craft 30–60-second reels centred on a mental health topic, demonstrating storytelling flair, visual innovation, and accessibility, with an emphasis on positive, constructive messaging.
 
 registration_link: https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
 ---
@@ -27,9 +27,9 @@ registration_link: https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegi
 Note:- The first four award winners will be able to showcase their reels during award ceremony.
 
 ## Rules and Regulations
-- Eligibility Criteria: Students of classes VIII,IX,X,XI,XII along with 1st and 2nd year students can register.
-- Participants can enter individually (number of actors is optional).
-- Content must be respectful, informative, and aimed at promoting mental well being.
+- Eligibility Criteria: Students of classes VIII,IX,X,XI, XII, along with 1st and 2nd year students, can register.
+- Participants can enter individually (the number of actors is optional).
+- Content must be respectful, informative, and aimed at promoting mental well-being.
 - All content must be original. Plagiarism will result in disqualification.
 - Proper citations must be provided for any referenced material.
 - Reels must be in English.

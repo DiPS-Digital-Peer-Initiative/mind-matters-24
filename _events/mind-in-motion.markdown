@@ -18,14 +18,14 @@ registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineReg
 ---
 
 ## Rules and Regulations
-- Students from class IX to XII with basic understanding of psychological concepts can participate.
+- Students from class IX to XII with a basic understanding of psychological concepts can participate.
 
 ---
 
 ## Other Attractions To Look At;
 
 ### INTERACTIVE STALLS
-- Step into immersive spaces designed to bring psychology to life through handson exploration.
+- Step into immersive spaces designed to bring psychology to life through hands-on exploration.
 
 ### EXPERIENCE ROOMS
 - Optical Illusion Room: Discover the fascinating world of visual perception. This room features interactive illusion exhibits that challenge how we see and interpret reality—highlighting how the brain can be tricked by what the eyes perceive.

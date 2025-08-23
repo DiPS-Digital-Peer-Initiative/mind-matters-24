@@ -32,8 +32,8 @@ Check the Registration Fees Details: <a href="/_media/external_S.pdf" class="lea
 - Groups of delegates from external schools or colleges are welcome to participate as official delegations.
 - Delegations may register for multiple events, provided there are no schedule conflicts.
 - Delegates do not need to belong to the same school, college, or institution.
-- Delegates from classes VIII to XII and 1st and 2nd year college students are welcome.
-- Participants must carry their school / college ID Card and identity proofs.
+- Delegates from classes VIII to XII and first and second-year college students are welcome.
+- Participants must carry their school / college ID card and identity proofs.
 
 Check the Registration Fees Details: <a href="/_media/external_D.pdf" class="learn-link">Get the Registration Fees Details ></a>
 
