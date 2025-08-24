@@ -5,7 +5,7 @@ title: Registration Details
 
 # Registration Details
 
----
+<div class="separator"></div>
 
 ## Internal Students – Delhi Public School Bangalore South
 - **Only students from our school** are eligible for this category.
@@ -16,7 +16,7 @@ title: Registration Details
 
 Check the Registration Fees Details: <a href="/_media/internal2025.pdf" class="learn-link">Get the Registration Fees Details ></a>
 
----
+<div class="separator"></div>
 
 ## External – School / College
 - **Enterprising students from other schools or colleges** are welcome to participate.
@@ -26,7 +26,7 @@ Check the Registration Fees Details: <a href="/_media/internal2025.pdf" class="l
 
 Check the Registration Fees Details: <a href="/_media/external_S.pdf" class="learn-link">Get the Registration Fees Details ></a>
 
----
+<div class="separator"></div>
 
 ## External Delegations 
 - Groups of delegates from external schools or colleges are welcome to participate as official delegations.
@@ -37,4 +37,4 @@ Check the Registration Fees Details: <a href="/_media/external_S.pdf" class="lea
 
 Check the Registration Fees Details: <a href="/_media/external_D.pdf" class="learn-link">Get the Registration Fees Details ></a>
 
----
+<div class="separator"></div>
