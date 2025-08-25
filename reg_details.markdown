@@ -29,7 +29,7 @@ Check the Registration Fees Details: <a href="/_media/external_S.pdf" class="lea
 <div class="separator"></div>
 
 ## External Delegations 
-- Groups of delegates from external schools or colleges are welcome to participate as official delegations.
+- Groups of delegates from external schools or colleges are welcome to participate as official delegations (private delegations, not belonging to one particular school may also register).
 - Delegations may register for multiple events, provided there are no schedule conflicts.
 - Delegates do not need to belong to the same school, college, or institution.
 - Delegates from classes VIII to XII and first and second-year college students are welcome.
