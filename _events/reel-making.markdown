@@ -14,7 +14,7 @@ participants: 4 - 5 per school / college
 
 description: A short-video competition where participants craft 30–60-second reels centred on a mental health topic, demonstrating storytelling flair, visual innovation, and accessibility, with an emphasis on positive, constructive messaging.
 
-registration_link: https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
+registration_link: /reg_details/
 ---
 
 ## Topics

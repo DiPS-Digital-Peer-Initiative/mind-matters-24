@@ -14,7 +14,7 @@ venue: Auditorium (BIA Block)
 participants: 8 per school / college
 description: An electrifying band competition where student performers channel the power of music to express emotion, defiance, courage, and reflection. Bands will be judged on originality, musicality, stage presence, and alignment with the event’s expressive themes. It's not just about the sound— it's about the story behind it.
 
-registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
+registration_link:  /reg_details/
 ---
 
 ## Topics

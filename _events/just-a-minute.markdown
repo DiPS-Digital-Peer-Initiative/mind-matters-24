@@ -14,7 +14,7 @@ venue: German Lab, Aidos Block, 2nd Floor
 participants: 2 per school / college
 description: An impromptu speaking challenge where each participant delivers a compelling, continuous one-minute talk on a surprise mental health theme, judged on spontaneity, coherence, and content under real-time pressure.
 
-registration_link: https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
+registration_link: /reg_details/
 ---
 
 ## Topics

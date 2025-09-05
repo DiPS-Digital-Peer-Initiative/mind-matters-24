@@ -14,7 +14,7 @@ venue: Auditorium (BIA Block)
 participants: 1 teacher and 2 students per school / college
 description: The Inquiry into Minds, School Research Symposium. As part of Mind Matters—our two-day initiative to promote mental health awareness and education—offers an academic platform for students to engage in psychology-based research. This interschool research paper presentation competition encourages learners to explore emerging issues in mental health and human behaviour, sharpen their critical thinking skills, and foster ethical inquiry. Students are invited to present original research work and participate in thought-provoking discussions with peers and experts.
 
-registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
+registration_link:  /reg_details/
 ---
 
 ## Topics

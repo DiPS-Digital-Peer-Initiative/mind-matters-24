@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Registration Details
+permalink: /reg_details/
 ---
 
 # Registration Details

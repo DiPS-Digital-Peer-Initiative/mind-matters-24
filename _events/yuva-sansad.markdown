@@ -14,7 +14,7 @@ venue: AV room, Alke Block (3rd floor)
 participants: 5 per school / college
 description: A parliamentary debate simulation where participants, assigned one of five ministries, analyse policies on ten critical social topics of women’s welfare,health, education, misinformation, and substance abuse—within a structured, time-bound format that emphasises research, rebuttal, and policy critique.
 
-registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
+registration_link:  /reg_details/
 ---
 
 ## Topics

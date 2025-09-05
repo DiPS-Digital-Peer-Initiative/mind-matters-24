@@ -15,7 +15,7 @@ participants: Maximum 3 students per school (Solo Performances only)
 
 description: An Indian classical dance competition conveying social messages and emotional narratives—ranging from empowerment to trauma recovery— through traditional abhinaya, choreography, and musicality.
 
-registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
+registration_link:  /reg_details/
 ---
 
 ## Topics

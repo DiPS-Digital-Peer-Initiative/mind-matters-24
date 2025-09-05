@@ -14,7 +14,7 @@ venue: Auditorium (BIA Block)
 participants: 1 - 2 per school / college
 description: A dynamic stand-up comedy showcase where individual performers use original, respectful humour to spotlight everyday absurdities—from social media failures to supermarket sagas—while maintaining a strictly positive, inclusive vibe.
 
-registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
+registration_link:  /reg_details/
 ---
 
 ## Topics

@@ -14,7 +14,7 @@ venue: German Lab, Aidos Block (2nd Floor)
 participants: 2 students per school
 description: “Mind in Motion” is the action-packed competition segment of Mind Matters, bringing psychology to life through a series of fun, fast-paced, and mentally stimulating challenges. Each round is designed to test observation, cognition, emotional intelligence, and critical thinking—putting psychological concepts into motion!
 
-registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
+registration_link:  /reg_details/
 ---
 
 ## Rules and Regulations

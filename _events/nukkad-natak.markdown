@@ -14,7 +14,7 @@ venue: Amphitheatre, Elios Block
 participants: 8 per school / college
 description: A street-play competition that dramatises pressing mental-health themes—resilience,stigma, cyberbullying, academic stress—using powerful storytelling, performance, and audience engagement to drive social awareness
 
-registration_link:  https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
+registration_link:  /reg_details/
 ---
 
 ## Topics

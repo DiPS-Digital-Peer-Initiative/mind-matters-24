@@ -14,7 +14,7 @@ venue: AV Room, Aidos Block
 participants: 2 per school / college
 description: UTOPIA is a poster-making competition that invites participants to creatively explore and promote critical themes surrounding mental health. Through visual expression, students will raise awareness, challenge societal taboos, and share positive messages related to emotional well-being, resilience, communication,and inclusion. The event aims to encourage thoughtful reflection and advocacy through art.
 
-registration_link: https://entrar.in/cd273632523539f0110095199b821c3c/onlineRegistrationConclave/3
+registration_link: /reg_details/
 ---
 
 ## Topics
