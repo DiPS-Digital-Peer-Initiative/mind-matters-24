@@ -1,9 +1,13 @@
 items:
+  
   - name: Registration Details
     link: /reg_details
 
   - name: Events
     link: /events
+
+  - name: Event Schedule
+    link: /schedule
     
   - name: 2024
     link: /2024    
