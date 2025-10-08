@@ -55,10 +55,6 @@ function renderSchedule(schedule) {
     dayEvents.forEach(event => {
       const statusClass = event.status ? event.status.toLowerCase() : 'upcoming';
       
-      const locationClass = 'location--' + event.location.toLowerCase()
-        .replace(/[^a-z0-9]+/g, '-') 
-        .replace(/^-+|-+$/g, '');   
-
       const formattedStartTime = formatTime12hr(event.startTime);
       const formattedEndTime = formatTime12hr(event.endTime);
       
@@ -73,7 +69,7 @@ function renderSchedule(schedule) {
       }
 
       finalHtml += `
-        <div class="timeline-item status-${statusClass} ${locationClass}" id="event-${event.id}">
+        <div class="timeline-item status-${statusClass}" id="event-${event.id}">
           <div class="timeline-card">
             ${timeHtml}
             <div class="timeline-content">
@@ -128,9 +124,8 @@ function updateEventStatuses() {
                 finalStatus = computedStatus; 
             }
 
-            const locationClass = 'location--' + eventData.location.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
             
-            item.className = `timeline-item status-${finalStatus.toLowerCase()} ${locationClass}`;
+            item.className = `timeline-item status-${finalStatus.toLowerCase()}`;
             
             const statusElement = item.querySelector('.timeline-status');
             if(statusElement) statusElement.textContent = finalStatus;

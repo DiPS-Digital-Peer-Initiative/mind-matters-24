@@ -49,11 +49,11 @@
     content: ''
     position: absolute
     top: 15px
-    left: -42px
+    left: -27.5px
+    transform: translateX(-50%)
     width: 15px
     height: 15px
     border-radius: 50%
-    background-color: #ccc
     border: 3px solid #f9f9f9
     z-index: 5
 
@@ -76,6 +76,14 @@
   font-size: 0.95em
   color: #777
   margin: 0
+  display: flex 
+  align-items: center
+  margin-top: 5px 
+  &::before
+    content: '📍' 
+    margin-right: 6px
+    font-size: 0.9em
+    opacity: 0.7
 
 .timeline-status
   position: absolute
@@ -95,6 +103,8 @@
     font-weight: 900
 
 .status-upcoming
+  .timeline-card::before
+    background-color: #adb5bd 
   .timeline-status
     color: #666
     background-color: #f0f0f0
@@ -130,7 +140,8 @@
   .timeline-card
     border-color: #ffc107
     &::before
-      background-color: #ffc107
+      background-color: #ffc107 
+      animation: pulse-yellow 1.5s infinite
   .timeline-status
     color: #333
     background-color: #ffc107
@@ -184,3 +195,11 @@ $color-illusion-room: #34495e
     box-shadow: 0 0 0 10px rgba(40, 167, 69, 0)
   100%
     box-shadow: 0 0 0 0 rgba(40, 167, 69, 0)
+
+@keyframes pulse-yellow
+  0%
+    box-shadow: 0 0 0 0 rgba(255, 193, 7, 0.7)
+  70%
+    box-shadow: 0 0 0 10px rgba(255, 193, 7, 0)
+  100%
+    box-shadow: 0 0 0 0 rgba(255, 193, 7, 0)

@@ -94,6 +94,36 @@ permalink: /super-secret-admin-link-for-mind-matters-2025/
   .admin-event-item[data-status="Delayed"] { border-left-color: #ffc107; }
   .admin-event-item[data-status="Finished"] { border-left-color: #6c757d; }
   .admin-event-item[data-status="Cancelled"] { border-left-color: #dc3545; }
+
+  .admin-venue-controls {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+  }
+  .admin-venue-select, .admin-new-venue-input {
+    font-size: 0.95em;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+    flex-grow: 1;
+  }
+  .admin-new-venue-input {
+    display: none; 
+  }
+  .admin-event-item {
+    gap: 15px; 
+  }
+  .admin-time-controls { 
+     display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+  }
+  .admin-event-title{
+    flex-basis: 100%;
+  }
 </style>
 
 <div id="admin-container">
@@ -144,14 +174,26 @@ permalink: /super-secret-admin-link-for-mind-matters-2025/
       finalHtml += `<div class="admin-day-column">`;
       finalHtml += `<h2>${day}</h2>`;
       const dayEvents = eventsByDay[day].sort((a,b) => timeToMinutes(a.startTime) - timeToMinutes(b.startTime));
-      
+      const allLocations = [...new Set(schedule.map(e => e.location))].sort();
+
       dayEvents.forEach(event => {
         const originalIndex = schedule.findIndex(e => e.id === event.id);
+        
+        let venueOptionsHtml = '';
+        allLocations.forEach(loc => {
+          venueOptionsHtml += `<option value="${loc}" ${event.location === loc ? 'selected' : ''}>${loc}</option>`;
+        });
+        venueOptionsHtml += `<option value="--add-new--">--- Add New Venue ---</option>`;
+
         finalHtml += `
           <div class="admin-event-item" data-index="${originalIndex}" data-status="${event.status}">
             <div class="admin-event-title">
               <strong>${event.title}</strong>
               <span>${event.day} (${formatDateAdmin(event.date)}) @ ${event.originalStartTime ? `<del>${event.originalStartTime}</del> →` : ''} ${event.startTime} - ${event.endTime}</span>
+            </div>
+            <div class="admin-venue-controls">
+              <select class="admin-venue-select">${venueOptionsHtml}</select>
+              <input type="text" class="admin-new-venue-input" placeholder="Enter new venue name...">
             </div>
             <div class="admin-controls">
               <input type="time" class="admin-time-input start-time" value="${event.startTime}">
@@ -168,6 +210,7 @@ permalink: /super-secret-admin-link-for-mind-matters-2025/
           </div>
         `;
       });
+      
       finalHtml += `</div>`;
     }
     adminListContainer.innerHTML = finalHtml;
@@ -220,6 +263,33 @@ permalink: /super-secret-admin-link-for-mind-matters-2025/
 
     if (e.target.classList.contains('admin-status-select')) {
       eventRef.update({ status: e.target.value });
+    }
+
+    if (e.target.classList.contains('admin-venue-select')) {
+      const newVenueSelect = e.target;
+      const newVenueInput = eventItem.querySelector('.admin-new-venue-input');
+      if (newVenueSelect.value === '--add-new--') {
+        newVenueInput.style.display = 'block';
+        newVenueInput.focus();
+      } else {
+        eventRef.update({ location: newVenueSelect.value });
+        newVenueInput.style.display = 'none';
+        newVenueInput.value = '';
+      }
+    }
+  });
+  adminListContainer.addEventListener('blur', function(e) {
+    if (e.target.classList.contains('admin-new-venue-input') && e.target.value.trim() !== '') {
+      const eventItem = e.target.closest('.admin-event-item');
+      const eventIndex = eventItem.dataset.index;
+      const eventRef = database.ref(`schedule/${eventIndex}`);
+      eventRef.update({ location: e.target.value.trim() });
+    }
+  }, true);
+
+  adminListContainer.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter' && e.target.classList.contains('admin-new-venue-input')) {
+      e.target.blur(); 
     }
   });
 </script>
